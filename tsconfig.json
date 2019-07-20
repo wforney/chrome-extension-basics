@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "sourceMap": false,    
+    "outDir": "dist/js",   
+    "rootDir": "src",      
+    "removeComments": true,
+    "noEmitOnError": true,
+    "strict": true,                         
+    "typeRoots": [ "node_modules/@types", "typings" ], 
+    "esModuleInterop": true,
+    "importHelpers": true
+  }
+}
